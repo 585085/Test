@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Innlevering</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/no/hvl/dat100/O2.java</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Documents/Opplastninger/Innleveringer/Uke%2036/Innleveringer/src/no/hvl/dat100/O2.java</locationURI>
+		</link>
+		<link>
+			<name>src/no/hvl/dat100/O3.java</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Documents/Opplastninger/Innleveringer/Uke%2036/Innleveringer/src/no/hvl/dat100/O3.java</locationURI>
+		</link>
+		<link>
+			<name>src/no/hvl/dat100/Uke36.java</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Documents/Opplastninger/Innleveringer/Uke%2036/Innleveringer/src/no/hvl/dat100/Uke36.java</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
